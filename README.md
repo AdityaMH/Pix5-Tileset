@@ -2,7 +2,7 @@
 LynxRo Tileset remastered. With massive rework and add more tiles and improvement uniques. Also for FantasyHex.
 
 Update:
- - Fix tress visual on tundra*
+ - Fix trees visual on tundra*
  - Fix sheep on forest*
  - Add unique Trading Post on desert*
 
