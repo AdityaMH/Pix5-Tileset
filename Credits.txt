@@ -1,6 +1,7 @@
 LynxRo Tileset remastered. With massive rework and add more tiles and improvement uniques. Also for FantasyHex.
 
 Thanks to:
+ LynxRo - For Great Tileset project
  Ravignir - For jsons template and missing tilesets.
  SpacedOutChicken/Lodo the Bear - For nice CrosshatchHexagon.png
  ArchDuque-Pancake/Caballero von Pancake - For atlas generator.
