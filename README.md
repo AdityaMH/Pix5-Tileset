@@ -6,4 +6,4 @@ Update:
  - Fix sheep on forest*
  - Add unique Trading Post on desert*
 
-*PC only work for PC, Need game.png and game.atlas to work on Android. Everyone can pull request or helping to update game.png and game.atlas
+*only work for PC, Need game.png and game.atlas to work on Android. Everyone can pull request or helping to update game.png and game.atlas
