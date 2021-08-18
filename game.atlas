@@ -1,0 +1,2379 @@
+
+game.png
+size: 2048, 512
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+OtherIcons/Triangle
+  rotate: false
+  xy: 252, 8
+  size: 20, 60
+  orig: 20, 60
+  offset: 0, 0
+  index: -1
+TileSets/Default/Road
+  rotate: false
+  xy: 637, 304
+  size: 60, 32
+  orig: 60, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Road
+  rotate: false
+  xy: 637, 304
+  size: 60, 32
+  orig: 60, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/CrosshatchHexagon
+  rotate: false
+  xy: 4, 272
+  size: 273, 236
+  orig: 273, 236
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Hexagon
+  rotate: false
+  xy: 360, 17
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Railroad
+  rotate: false
+  xy: 92, 64
+  size: 60, 32
+  orig: 60, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Academy
+  rotate: false
+  xy: 1383, 385
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Aluminum
+  rotate: false
+  xy: 92, 33
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Aluminum+Mine
+  rotate: false
+  xy: 1341, 347
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Amber
+  rotate: false
+  xy: 1381, 354
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Amber+Mine
+  rotate: false
+  xy: 1253, 313
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Ancient ruins
+  rotate: false
+  xy: 1293, 318
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Ancient ruins2
+  rotate: false
+  xy: 677, 268
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AncientRuinsDesert
+  rotate: false
+  xy: 1333, 311
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AncientRuinsForest
+  rotate: false
+  xy: 132, 28
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/AncientRuinsSnowTundra
+  rotate: false
+  xy: 705, 308
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Antiquity Site
+  rotate: false
+  xy: 745, 316
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/FH/Antiquity Site
+  rotate: false
+  xy: 745, 316
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Archaeological Dig
+  rotate: false
+  xy: 785, 316
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/FH/Archaeological Dig
+  rotate: false
+  xy: 785, 316
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Atoll
+  rotate: false
+  xy: 825, 318
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Bananas
+  rotate: false
+  xy: 717, 272
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Bananas+Plantation
+  rotate: false
+  xy: 757, 280
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Barbarian encampment
+  rotate: false
+  xy: 797, 280
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Barringer Crater
+  rotate: false
+  xy: 837, 282
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Bison
+  rotate: false
+  xy: 160, 68
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/FH/Bison
+  rotate: false
+  xy: 160, 68
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Bison+Camp
+  rotate: false
+  xy: 200, 80
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Cattle
+  rotate: false
+  xy: 268, 200
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Cattle+Pasture
+  rotate: false
+  xy: 268, 164
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Cerro de Potosi
+  rotate: false
+  xy: 268, 125
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Chateau
+  rotate: false
+  xy: 4, 110
+  size: 80, 76
+  orig: 80, 76
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Citadel
+  rotate: false
+  xy: 348, 238
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Citrus
+  rotate: false
+  xy: 308, 199
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/FH/Citrus
+  rotate: false
+  xy: 308, 199
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Citrus+Plantation
+  rotate: false
+  xy: 388, 240
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/City center
+  rotate: false
+  xy: 348, 200
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/City center-Ancient era
+  rotate: false
+  xy: 308, 161
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/City center-Atomic era
+  rotate: false
+  xy: 388, 202
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/City center-Classical era
+  rotate: false
+  xy: 428, 238
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/City center-Future era
+  rotate: false
+  xy: 348, 162
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/City center-Industrial era
+  rotate: false
+  xy: 388, 164
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/City center-Information era
+  rotate: false
+  xy: 468, 238
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/City center-Medieval era
+  rotate: false
+  xy: 428, 200
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/City center-Modern era
+  rotate: false
+  xy: 508, 238
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/City center-Renaissance era
+  rotate: false
+  xy: 468, 200
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/City ruins
+  rotate: false
+  xy: 308, 127
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Coal
+  rotate: false
+  xy: 348, 131
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Coal+Mine
+  rotate: false
+  xy: 588, 235
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Coast
+  rotate: false
+  xy: 428, 164
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Coast+Ice
+  rotate: false
+  xy: 468, 164
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Cocoa
+  rotate: false
+  xy: 548, 196
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/FH/Cocoa
+  rotate: false
+  xy: 548, 196
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Cocoa+Plantation
+  rotate: false
+  xy: 588, 199
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Coffe+Plantation
+  rotate: false
+  xy: 388, 128
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Coffee
+  rotate: false
+  xy: 428, 126
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/FH/Coffee
+  rotate: false
+  xy: 428, 126
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Colossal Head
+  rotate: false
+  xy: 373, 438
+  size: 80, 70
+  orig: 80, 70
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Copper
+  rotate: false
+  xy: 508, 165
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Copper+Mine
+  rotate: false
+  xy: 508, 124
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Cotton
+  rotate: false
+  xy: 588, 163
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Cotton+Plantation
+  rotate: false
+  xy: 548, 122
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Crab
+  rotate: false
+  xy: 92, 104
+  size: 80, 76
+  orig: 80, 76
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Customs house
+  rotate: false
+  xy: 628, 229
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Deer
+  rotate: false
+  xy: 628, 193
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Deer+Camp
+  rotate: false
+  xy: 668, 232
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Desert
+  rotate: false
+  xy: 628, 157
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Dyes
+  rotate: false
+  xy: 1981, 396
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Dyes+Plantation
+  rotate: false
+  xy: 280, 50
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/El Dorado
+  rotate: false
+  xy: 320, 49
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Fallout
+  rotate: false
+  xy: 1517, 402
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Farm
+  rotate: false
+  xy: 1557, 402
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Farm+Flood plains
+  rotate: false
+  xy: 1597, 396
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Feitoria
+  rotate: false
+  xy: 1637, 389
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/FH/Feitoria
+  rotate: false
+  xy: 1637, 389
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Fish
+  rotate: false
+  xy: 1677, 386
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Fish+Fishing Boats
+  rotate: false
+  xy: 1717, 386
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Fishing Boats
+  rotate: false
+  xy: 757, 244
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Flood plains
+  rotate: false
+  xy: 797, 244
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Forest
+  rotate: false
+  xy: 837, 244
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Forest+Citrus
+  rotate: false
+  xy: 717, 236
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Forest+Cotton
+  rotate: false
+  xy: 708, 198
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Forest+Deer
+  rotate: false
+  xy: 708, 162
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Forest+Deer+Camp
+  rotate: false
+  xy: 708, 126
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Forest+Dyes
+  rotate: false
+  xy: 708, 90
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Forest+Furs
+  rotate: false
+  xy: 708, 54
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Forest+Furs+Camp
+  rotate: false
+  xy: 757, 208
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Forest+Hardwood+Lumber mill
+  rotate: false
+  xy: 797, 206
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Forest+Lumber mill
+  rotate: false
+  xy: 837, 206
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Forest+Sacred Grove
+  rotate: false
+  xy: 748, 170
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Forest+Silk
+  rotate: false
+  xy: 748, 132
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Forest+Spices
+  rotate: false
+  xy: 748, 94
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Forest+Trading post
+  rotate: false
+  xy: 748, 56
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Forest+Truffles
+  rotate: false
+  xy: 788, 168
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Forest+Truffles+Camp
+  rotate: false
+  xy: 788, 130
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Fort
+  rotate: false
+  xy: 828, 168
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Fountain of Youth
+  rotate: false
+  xy: 788, 91
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Furs
+  rotate: false
+  xy: 828, 132
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Furs+Camp
+  rotate: false
+  xy: 828, 96
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Gems
+  rotate: false
+  xy: 788, 60
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Gems+Mine
+  rotate: false
+  xy: 828, 55
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Gold Ore
+  rotate: false
+  xy: 788, 29
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Gold Ore+Mine
+  rotate: false
+  xy: 748, 15
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Grand Mesa
+  rotate: false
+  xy: 828, 19
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Grassland
+  rotate: false
+  xy: 1381, 318
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Grassland+Marsh
+  rotate: false
+  xy: 360, 53
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Great Barrier Reef
+  rotate: false
+  xy: 400, 90
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/HF
+  rotate: false
+  xy: 400, 52
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/HF+Citrus
+  rotate: false
+  xy: 440, 88
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/HF+Deer
+  rotate: false
+  xy: 440, 50
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/HF+Deer+Camp
+  rotate: false
+  xy: 480, 86
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/HF+Dyes
+  rotate: false
+  xy: 480, 48
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/HF+Furs
+  rotate: false
+  xy: 520, 84
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/HF+Furs+Camp
+  rotate: false
+  xy: 520, 46
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/HF+Hardwood+Lumber mill
+  rotate: false
+  xy: 560, 50
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/HF+Lumber mill
+  rotate: false
+  xy: 868, 168
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/HF+Sacred Grove
+  rotate: false
+  xy: 868, 130
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/HF+Silk
+  rotate: false
+  xy: 868, 92
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/HF+Spices
+  rotate: false
+  xy: 868, 54
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/HF+Trading post
+  rotate: false
+  xy: 868, 16
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/HF+Truffles
+  rotate: false
+  xy: 1373, 241
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/HF+Truffles+Camp
+  rotate: false
+  xy: 1413, 280
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Hill
+  rotate: false
+  xy: 400, 14
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Holy Place
+  rotate: false
+  xy: 480, 4
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Holy Site
+  rotate: false
+  xy: 1423, 384
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Horses
+  rotate: false
+  xy: 520, 8
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Horses+Pasture
+  rotate: false
+  xy: 560, 14
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Ice
+  rotate: false
+  xy: 1421, 348
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Incense
+  rotate: false
+  xy: 1463, 394
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Incense+Plantation
+  rotate: false
+  xy: 1463, 358
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Iron
+  rotate: false
+  xy: 1503, 371
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Iron+Mine
+  rotate: false
+  xy: 1543, 361
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Ivory
+  rotate: false
+  xy: 1503, 335
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Ivory+Camp
+  rotate: false
+  xy: 1543, 325
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Jade
+  rotate: false
+  xy: 1583, 365
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Jade+Mine
+  rotate: false
+  xy: 1623, 348
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Jungle
+  rotate: false
+  xy: 1663, 348
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Jungle+Ancient ruins
+  rotate: false
+  xy: 1703, 348
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Jungle+Bananas
+  rotate: false
+  xy: 1623, 310
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Jungle+Brazilwood camp
+  rotate: false
+  xy: 1663, 310
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Jungle+Citrus
+  rotate: false
+  xy: 1703, 310
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Jungle+Cocoa
+  rotate: false
+  xy: 1583, 291
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Jungle+Dyes
+  rotate: false
+  xy: 1623, 272
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Jungle+Sacred Grove
+  rotate: false
+  xy: 1663, 272
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Jungle+Spices
+  rotate: false
+  xy: 1703, 272
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Jungle+Trading post
+  rotate: false
+  xy: 1743, 348
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Jungle+Truffles
+  rotate: false
+  xy: 1743, 310
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Jungle+Truffles+Camp
+  rotate: false
+  xy: 1743, 272
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Kasbah
+  rotate: false
+  xy: 1783, 320
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/FH/Kasbah
+  rotate: false
+  xy: 1783, 320
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/King Solomon's Mines
+  rotate: false
+  xy: 637, 422
+  size: 80, 86
+  orig: 80, 86
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Krakatoa
+  rotate: false
+  xy: 1823, 351
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Kurgan
+  rotate: false
+  xy: 373, 276
+  size: 80, 70
+  orig: 80, 70
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Lakes
+  rotate: false
+  xy: 1783, 284
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Lakes+Lake Victoria
+  rotate: false
+  xy: 461, 354
+  size: 80, 70
+  orig: 80, 70
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Land Trade Route (Food)
+  rotate: false
+  xy: 549, 354
+  size: 80, 70
+  orig: 80, 70
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Land Trade Route (Gold)
+  rotate: false
+  xy: 549, 354
+  size: 80, 70
+  orig: 80, 70
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Land Trade Route (Production)
+  rotate: false
+  xy: 549, 354
+  size: 80, 70
+  orig: 80, 70
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Landmark
+  rotate: false
+  xy: 1863, 349
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Lapis Lazuli
+  rotate: false
+  xy: 1863, 318
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Lapis Lazuli+Mine
+  rotate: false
+  xy: 1903, 317
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Maize
+  rotate: false
+  xy: 1943, 320
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/FH/Maize
+  rotate: false
+  xy: 1943, 320
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Maize+Farm
+  rotate: false
+  xy: 1983, 360
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Manufactory
+  rotate: false
+  xy: 1983, 319
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Marble
+  rotate: false
+  xy: 1823, 273
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Marble+Quarry
+  rotate: false
+  xy: 1863, 282
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Mine
+  rotate: false
+  xy: 1903, 276
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Moai
+  rotate: false
+  xy: 1943, 281
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Mount Fuji
+  rotate: false
+  xy: 1783, 243
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Mount Kailash
+  rotate: false
+  xy: 989, 422
+  size: 80, 86
+  orig: 80, 86
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Mount Kilimanjaro
+  rotate: false
+  xy: 1077, 422
+  size: 80, 86
+  orig: 80, 86
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Mount Sinai
+  rotate: false
+  xy: 1165, 422
+  size: 80, 86
+  orig: 80, 86
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Mountain
+  rotate: false
+  xy: 1823, 229
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Oasis
+  rotate: false
+  xy: 1863, 246
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Obsidian
+  rotate: false
+  xy: 1903, 240
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Obsidian+Quarry
+  rotate: false
+  xy: 1983, 243
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Ocean
+  rotate: false
+  xy: 1863, 210
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Offshore Platform
+  rotate: false
+  xy: 1903, 204
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Oil
+  rotate: false
+  xy: 1943, 209
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Oil well
+  rotate: false
+  xy: 1983, 207
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Old Faithful
+  rotate: false
+  xy: 600, 38
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Olive+Plantation
+  rotate: false
+  xy: 1461, 322
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Olives
+  rotate: false
+  xy: 1453, 280
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/FH/Olives
+  rotate: false
+  xy: 1453, 280
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Pasture
+  rotate: false
+  xy: 1453, 244
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Pearls
+  rotate: false
+  xy: 813, 354
+  size: 80, 70
+  orig: 80, 70
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Perfume
+  rotate: false
+  xy: 1501, 293
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/FH/Perfume
+  rotate: false
+  xy: 1501, 293
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Plains
+  rotate: false
+  xy: 1541, 289
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Plantation
+  rotate: false
+  xy: 1493, 216
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Polder
+  rotate: false
+  xy: 1453, 208
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/River-Bottom
+  rotate: false
+  xy: 1533, 178
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/River-BottomLeft
+  rotate: false
+  xy: 1943, 173
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/River-BottomRight
+  rotate: false
+  xy: 1983, 171
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Rock of Gibraltar
+  rotate: false
+  xy: 1573, 252
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Salt
+  rotate: false
+  xy: 1573, 185
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Salt+Mine
+  rotate: false
+  xy: 1613, 195
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sea Trade Route (Food)
+  rotate: false
+  xy: 1517, 438
+  size: 80, 70
+  orig: 80, 70
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sea Trade Route (Gold)
+  rotate: false
+  xy: 1517, 438
+  size: 80, 70
+  orig: 80, 70
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sea Trade Route (Production)
+  rotate: false
+  xy: 1517, 438
+  size: 80, 70
+  orig: 80, 70
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Seaside Stall
+  rotate: false
+  xy: 1605, 432
+  size: 80, 76
+  orig: 80, 76
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sheep
+  rotate: false
+  xy: 1693, 236
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sheep+Pasture
+  rotate: false
+  xy: 1733, 236
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Silk
+  rotate: false
+  xy: 1653, 194
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Silk+Plantation
+  rotate: false
+  xy: 1693, 198
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Silver
+  rotate: false
+  xy: 1733, 205
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Silver+Mine
+  rotate: false
+  xy: 1773, 202
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Snow
+  rotate: false
+  xy: 1813, 193
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Spices
+  rotate: false
+  xy: 1613, 159
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Spices+Plantation
+  rotate: false
+  xy: 1653, 158
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sri Pada
+  rotate: false
+  xy: 1693, 422
+  size: 80, 86
+  orig: 80, 86
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Stone
+  rotate: false
+  xy: 1693, 162
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Stone+Quarry
+  rotate: false
+  xy: 1733, 169
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sugar
+  rotate: false
+  xy: 1773, 166
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sugar+Plantation
+  rotate: false
+  xy: 1573, 149
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/TF
+  rotate: false
+  xy: 1813, 155
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/TF+Citrus
+  rotate: false
+  xy: 1853, 174
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/TF+Deer
+  rotate: false
+  xy: 1893, 168
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/TF+Deer+Camp
+  rotate: false
+  xy: 1853, 138
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/TF+Dyes
+  rotate: false
+  xy: 1893, 132
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/TF+Furs
+  rotate: false
+  xy: 1933, 137
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/TF+Furs+Camp
+  rotate: false
+  xy: 1973, 135
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/TF+Hardwood+Lumber mill
+  rotate: false
+  xy: 1613, 121
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/TF+Lumber mill
+  rotate: false
+  xy: 1653, 120
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/TF+Sacred Grove
+  rotate: false
+  xy: 1693, 124
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/TF+Silk
+  rotate: false
+  xy: 1733, 131
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/TF+Spices
+  rotate: false
+  xy: 1773, 128
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/TF+Trading post
+  rotate: false
+  xy: 1813, 117
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/TF+Truffles
+  rotate: false
+  xy: 1853, 100
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/TF+Truffles+Camp
+  rotate: false
+  xy: 1893, 94
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Tea
+  rotate: false
+  xy: 1933, 101
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/FH/Tea
+  rotate: false
+  xy: 1933, 101
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Tea+Plantation
+  rotate: false
+  xy: 1973, 99
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Terrace farm
+  rotate: false
+  xy: 1733, 93
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Tobacco
+  rotate: false
+  xy: 1813, 81
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/FH/Tobacco
+  rotate: false
+  xy: 1813, 81
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Tobacco+Plantation
+  rotate: false
+  xy: 1693, 88
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Trading post
+  rotate: false
+  xy: 1853, 62
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Unused Tiles/Trading post
+  rotate: false
+  xy: 1853, 62
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Truffles
+  rotate: false
+  xy: 1893, 56
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Truffles+Camp
+  rotate: false
+  xy: 1165, 330
+  size: 80, 84
+  orig: 80, 84
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Tundra
+  rotate: false
+  xy: 1973, 63
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Uluru
+  rotate: false
+  xy: 1253, 354
+  size: 80, 70
+  orig: 80, 70
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Unused Tiles/Camp
+  rotate: false
+  xy: 268, 236
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Unused Tiles/Lumber mill
+  rotate: false
+  xy: 1943, 358
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Unused Tiles/Plantation
+  rotate: false
+  xy: 1533, 214
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Unused Tiles/ResourcesForest
+  rotate: false
+  xy: 640, 38
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Unused Tiles/ResourcesJungle
+  rotate: false
+  xy: 1493, 178
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Uranium
+  rotate: false
+  xy: 1973, 32
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Uranium+Mine
+  rotate: false
+  xy: 1733, 52
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Whales
+  rotate: false
+  xy: 1773, 52
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Whales+Fishing Boats
+  rotate: false
+  xy: 1813, 45
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Wheat
+  rotate: false
+  xy: 1853, 26
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Wheat+Farm
+  rotate: false
+  xy: 1893, 20
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Wine
+  rotate: false
+  xy: 212, 40
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Wine+Plantation
+  rotate: false
+  xy: 212, 4
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/Amber
+  rotate: false
+  xy: 4, 194
+  size: 80, 70
+  orig: 80, 70
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/Amber+Mine
+  rotate: false
+  xy: 285, 438
+  size: 80, 70
+  orig: 80, 70
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/Caer
+  rotate: false
+  xy: 172, 28
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/FH/Caer
+  rotate: false
+  xy: 172, 28
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/Coffee
+  rotate: false
+  xy: 92, 188
+  size: 80, 76
+  orig: 80, 76
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/Coffee+Plantation
+  rotate: false
+  xy: 285, 354
+  size: 80, 76
+  orig: 80, 76
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/Coral
+  rotate: false
+  xy: 4, 32
+  size: 80, 70
+  orig: 80, 70
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/Diamonds
+  rotate: false
+  xy: 180, 194
+  size: 80, 70
+  orig: 80, 70
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/FH/Amber
+  rotate: false
+  xy: 637, 268
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/FH/Camp
+  rotate: false
+  xy: 240, 76
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/FH/Chateau
+  rotate: false
+  xy: 308, 235
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/FH/City-Atomic era
+  rotate: false
+  xy: 548, 232
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/FH/City-Information era
+  rotate: false
+  xy: 508, 196
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/FH/Copper
+  rotate: false
+  xy: 468, 128
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/FH/Coral
+  rotate: false
+  xy: 548, 158
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/FH/Crab
+  rotate: false
+  xy: 588, 127
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/FH/Desert+Desert Hill
+  rotate: false
+  xy: 668, 193
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/FH/Desert+Desert Hill+Aluminum
+  rotate: false
+  xy: 668, 154
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/FH/Desert+Desert Hill+Coal
+  rotate: false
+  xy: 628, 118
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/FH/Desert+Desert Hill+Gems
+  rotate: false
+  xy: 668, 115
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/FH/Desert+Desert Hill+Gold
+  rotate: false
+  xy: 280, 86
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/FH/Desert+Desert Hill+Horses
+  rotate: false
+  xy: 320, 88
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/FH/Desert+Desert Hill+Iron
+  rotate: false
+  xy: 588, 88
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/FH/Desert+Desert Hill+Kasbah
+  rotate: false
+  xy: 628, 79
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/FH/Desert+Desert Hill+Pasture
+  rotate: false
+  xy: 668, 76
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/FH/Desert+Desert Hill+Salt
+  rotate: false
+  xy: 1293, 279
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/FH/Desert+Desert Hill+Sheep
+  rotate: false
+  xy: 1333, 272
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/FH/Desert+Desert Hill+Silver
+  rotate: false
+  xy: 1781, 393
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/FH/Desert+Desert Hill+Terrace Farm
+  rotate: false
+  xy: 1821, 393
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/FH/Desert+Desert Hill+Uranium
+  rotate: false
+  xy: 1861, 393
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/FH/Desert+Flood plains+Kasbah
+  rotate: false
+  xy: 1901, 394
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/FH/Diamonds
+  rotate: false
+  xy: 1941, 396
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/FH/Grassland+Forest+Antiquity Site
+  rotate: false
+  xy: 1373, 279
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/FH/Grassland+Jungle+Brazilwood Camp
+  rotate: false
+  xy: 360, 89
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/FH/Hill+Forest+Antiquity Site
+  rotate: false
+  xy: 440, 14
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/FH/Jade
+  rotate: false
+  xy: 1583, 329
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/FH/Kampong Ayer
+  rotate: false
+  xy: 1783, 357
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/FH/Land Trade Route (Food)
+  rotate: false
+  xy: 1823, 309
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/FH/Land Trade Route (Gold)
+  rotate: false
+  xy: 1823, 309
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/FH/Land Trade Route (Production)
+  rotate: false
+  xy: 1823, 309
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/FH/Lapis Lazuli
+  rotate: false
+  xy: 1903, 358
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/FH/Obsidian
+  rotate: false
+  xy: 1943, 245
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/FH/Plains+Forest+Antiquity Site
+  rotate: false
+  xy: 1493, 252
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/FH/Plains+Jungle+Brazilwood Camp
+  rotate: false
+  xy: 1533, 250
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/FH/Sacred Grove
+  rotate: false
+  xy: 1573, 216
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Unused Tiles/Sacred Grove
+  rotate: false
+  xy: 1573, 216
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/FH/Salt
+  rotate: false
+  xy: 1613, 236
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/FH/Sea Trade Route (Food)
+  rotate: false
+  xy: 1653, 230
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/FH/Sea Trade Route (Gold)
+  rotate: false
+  xy: 1653, 230
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/FH/Sea Trade Route (Production)
+  rotate: false
+  xy: 1653, 230
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/FH/Truffles
+  rotate: false
+  xy: 1933, 65
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/FH/Tundra+Forest+Antiquity Site
+  rotate: false
+  xy: 1933, 25
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/Forest+Hardwood+Lumber mill
+  rotate: false
+  xy: 373, 354
+  size: 80, 76
+  orig: 80, 76
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/HF+Hardwood+Lumber mill
+  rotate: false
+  xy: 461, 432
+  size: 80, 76
+  orig: 80, 76
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/Harjis
+  rotate: false
+  xy: 1413, 240
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/FH/Harjis
+  rotate: false
+  xy: 1413, 240
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/Jade
+  rotate: false
+  xy: 285, 276
+  size: 80, 70
+  orig: 80, 70
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/Jade+Mine
+  rotate: false
+  xy: 180, 116
+  size: 80, 70
+  orig: 80, 70
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/Kampong Ayer
+  rotate: false
+  xy: 549, 432
+  size: 80, 76
+  orig: 80, 76
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/Lapis Lazuli
+  rotate: false
+  xy: 725, 438
+  size: 80, 70
+  orig: 80, 70
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/Lapis Lazuli+Mine
+  rotate: false
+  xy: 461, 276
+  size: 80, 70
+  orig: 80, 70
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/Maize
+  rotate: false
+  xy: 813, 432
+  size: 80, 76
+  orig: 80, 76
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/Maize+Farm
+  rotate: false
+  xy: 901, 432
+  size: 80, 76
+  orig: 80, 76
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/Motte and Bailey
+  rotate: false
+  xy: 1983, 279
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/FH/Motte and Bailey
+  rotate: false
+  xy: 1983, 279
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/Obsidian
+  rotate: false
+  xy: 549, 276
+  size: 80, 70
+  orig: 80, 70
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/Obsidian+Quarry
+  rotate: false
+  xy: 637, 344
+  size: 80, 70
+  orig: 80, 70
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/Olives
+  rotate: false
+  xy: 725, 354
+  size: 80, 76
+  orig: 80, 76
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/Olives+Plantation
+  rotate: false
+  xy: 1253, 432
+  size: 80, 76
+  orig: 80, 76
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/Perfume
+  rotate: false
+  xy: 901, 348
+  size: 80, 76
+  orig: 80, 76
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/Perfume+Plantation
+  rotate: false
+  xy: 1341, 428
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/Sacred Grove
+  rotate: false
+  xy: 1429, 430
+  size: 80, 78
+  orig: 80, 78
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sacred Place
+  rotate: false
+  xy: 1429, 430
+  size: 80, 78
+  orig: 80, 78
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/TF+Hardwood+Lumber mill
+  rotate: false
+  xy: 1781, 432
+  size: 80, 76
+  orig: 80, 76
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/Tea
+  rotate: false
+  xy: 1869, 432
+  size: 80, 76
+  orig: 80, 76
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/Tea+Plantation
+  rotate: false
+  xy: 1957, 432
+  size: 80, 76
+  orig: 80, 76
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/Tibetan Monastery
+  rotate: false
+  xy: 1341, 388
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/FH/Tibetan Monastery
+  rotate: false
+  xy: 1341, 388
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/Tipi
+  rotate: false
+  xy: 1773, 88
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/FH/Tipi
+  rotate: false
+  xy: 1773, 88
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/Tobacco
+  rotate: false
+  xy: 989, 338
+  size: 80, 76
+  orig: 80, 76
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/rekmod/Tobacco+Plantation
+  rotate: false
+  xy: 1077, 338
+  size: 80, 76
+  orig: 80, 76
+  offset: 0, 0
+  index: -1
