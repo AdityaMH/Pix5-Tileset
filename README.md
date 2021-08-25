@@ -4,7 +4,8 @@ LynxRo Tileset remastered. With massive rework and add more tiles and improvemen
 Update:
 
  v1.0.3a
- - Convert G&K Natural Wonders to FantasyHex
+ - Convert G&K Natural Wonders to FantasyHex*
+ -Fix Holy site visual
 
  v1.0.2a
  - Fix "Plains+Hill+Forest+Deer" visual
