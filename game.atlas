@@ -872,7 +872,7 @@ TileSets/FantasyHex/Tiles/Holy Place
   orig: 32, 36
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Holy Site
+TileSets/FantasyHex/Tiles/Holy site
   rotate: false
   xy: 1423, 384
   size: 32, 36
