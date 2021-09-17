@@ -32,6 +32,7 @@
 		"Desert+Wheat+Farm": ["Desert", "Wheat+Farm"]
 // plains
 		"Plains+Farm": ["Plains","Farm"]
+		"Plains+Hill+Farm": ["Plains","Hill","Farm+Flood plains"]
 		"Plains+Wheat+Farm": ["Plains", "Wheat+Farm"]
 		"Plains+Jungle": ["Plains", "Jungle"]
 		"Plains+Jungle+Trading post": ["Plains","Trading post","Jungle"]
@@ -87,6 +88,7 @@
 
 // grasslands
 		"Grassland+Farm": ["Grassland","Farm"]
+		"Grassland+Hill+Farm": ["Grassland","Hill","Farm+Flood plains"]
 		"Grassland+Farm+Wheat": ["Grassland", "Wheat+Farm"]
 		"Grassland+Jungle": ["Grassland", "Jungle"]
 		"Grassland+Jungle+Trading post": ["Plains","Trading post","Jungle"]
@@ -140,6 +142,7 @@
 //hills for civ5 mod compatibility
 		
 		"Hill": ["Plains","Hill"],
+		"Hill+Farm": ["Grassland","Hill","Farm+Flood plains"],
         "Hill+Ancient ruins": ["Plains","Hill","AncientRuinsForests"],
 		
         "Hill+Sheep": ["Plains","Hill","Sheep"],
