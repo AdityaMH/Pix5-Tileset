@@ -64,6 +64,7 @@
 		"Plains+Forest+Deer": ["Plains","Forest+Deer"]
 		"Plains+Hill+Forest+Deer": ["Plains","HF+Deer"]
 		"Plains+Forest+Deer+Camp": ["Plains","Forest+Deer+Camp"]
+		"Plains+Hill+Forest+Deer+Camp": ["Plains","HF+Deer+Camp"]
 		"Plains+Forest+Dyes": ["Plains","Forest+Dyes"]
 		"Plains+Forest+Furs": ["Plains","Forest+Furs"]
 		"Plains+Forest+Furs+Camp": ["Plains","Forest+Furs+Camp"]
@@ -74,6 +75,8 @@
 		"Plains+Forest+Trading Post": ["Plains","Forest+Trading post"]
 		"Plains+Forest+Truffles": ["Plains","Forest+Truffles"]
 		"Plains+Forest+Truffles+Camp": ["Plains","Forest+Truffles+Camp"]
+		"Plains+Hill+Forest+Truffles": ["Plains","HF+Truffles"]
+		"Plains+Hill+Forest+Truffles+Camp": ["Plains","HF+Truffles+Camp"]
 		"Plains+Jungle+Ancient ruins": ["Plains","Jungle+Ancient ruins"]
 		"Plains+Jungle+Bananas": ["Plains","Jungle+Bananas"]
 		"Plains+Jungle+Brazilwood camp": ["Plains","Jungle+Brazilwood camp"]
@@ -83,7 +86,7 @@
 		"Plains+Jungle+Sacred Grove": ["Plains","Jungle+Sacred Grove"]
 		"Plains+Jungle+Spices": ["Plains","Jungle+Spices"]
 		"Plains+Jungle+Trading post": ["Plains","Jungle+Trading post"]
-		"Plains+Jungle+Truffles": ["Plains","Jungle+Ancient Truffles"]
+		"Plains+Jungle+Truffles": ["Plains","Jungle+Truffles"]
 		"Plains+Jungle+Truffles+Camp": ["Plains","Jungle+Truffles+Camp"]
 
 // grasslands
@@ -137,7 +140,7 @@
 		"Grassland+Jungle+Sacred Grove": ["Grassland","Jungle+Sacred Grove"]
 		"Grassland+Jungle+Spices": ["Grassland","Jungle+Spices"]
 		"Grassland+Jungle+Trading post": ["Grassland","Jungle+Trading post"]
-		"Grassland+Jungle+Truffles": ["Grassland","Jungle+Ancient Truffles"]
+		"Grassland+Jungle+Truffles": ["Grassland","Jungle+Truffles"]
 		"Grassland+Jungle+Truffles+Camp": ["Grassland","Jungle+Truffles+Camp"]
 //hills for civ5 mod compatibility
 		
@@ -202,60 +205,60 @@
         "Hill+Silk+Plantation": ["Plains","Hill","Silk+Plantation"],
         "Hill+Furs": ["Plains","Hill","Furs"],
         "Hill+Furs+Ancient ruins": ["Plains","Hill","Furs","AncientRuinsForests"],
-        "Hill+Furs+Camp": ["Plains","Hill","Furs+Camp"]
+        "Hill+Furs+Camp": ["Plains","Hill","Furs+Camp"],
 		
-		"Hill+Forest": ["Plains","Hill","HF"]
-		"Hill+Forest+Antiquity Site": ["Plains","Hill","HF","Antiquity Site"]
-		"Hill+Forest+Iron": ["Plains","Hill","Iron","HF"]
-		"Hill+Forest+Uranium": ["Plains","Hill","Uranium","HF"]
-		"Hill+Forest+Silver": ["Plains","Hill","Silver","HF"]
-		"Hill+Forest+Aluminum": ["Plains","Hill","Aluminum","HF"]
-		"Hill+Forest+Gold": ["Plains","Hill","Gold Ore","HF"]	
-		"Hill+Forest+Gold Ore": ["Plains","Hill","Gold Ore","HF"]
-		"Hill+Forest+Gems": ["Plains","Hill","Gems","HF"]			
-		"Hill+Forest+Citrus": ["Plains","Hill","HF+Citrus"]
-		"Hill+Forest+Deer": ["Plains","Hill","HF+Deer"]
-		"Hill+Forest+Deer+Camp": ["Plains","Hill","HF+Deer+Camp"]
-		"Hill+Forest+Dyes": ["Plains","Hill","HF+Dyes"]
-		"Hill+Forest+Furs": ["Plains","Hill","HF+Furs"]
-		"Hill+Forest+Furs+Camp": ["Plains","Hill","HF+Furs+Camp"]
-		"Hill+Forest+Lumber mill": ["Plains","Hill","HF+Lumber mill"]
-		"Hill+Forest+Sacred Grove": ["Plains","Hill","HF+Sacred Grove"]
-		"Hill+Forest+Silk": ["Plains","Hill","HF+Silk"]
-		"Hill+Forest+Spices": ["Plains","Hill","HF+Spices"]
-		"Hill+Forest+Trading post": ["Plains","Hill","HF+Trading post"]
-		"Hill+Forest+Truffles": ["Plains","Hill","HF+Truffles"]
-		"Hill+Forest+Truffles+Camp": ["Plains","Hill","HF+Truffles+Camp"]
+		"Hill+Forest": ["Plains","Hill","HF"],
+		"Hill+Forest+Antiquity Site": ["Plains","Hill","HF","Antiquity Site"],
+		"Hill+Forest+Iron": ["Plains","Hill","Iron","HF"],
+		"Hill+Forest+Uranium": ["Plains","Hill","Uranium","HF"],
+		"Hill+Forest+Silver": ["Plains","Hill","Silver","HF"],
+		"Hill+Forest+Aluminum": ["Plains","Hill","Aluminum","HF"],
+		"Hill+Forest+Gold": ["Plains","Hill","Gold Ore","HF"],	
+		"Hill+Forest+Gold Ore": ["Plains","Hill","Gold Ore","HF"],
+		"Hill+Forest+Gems": ["Plains","Hill","Gems","HF"],			
+		"Hill+Forest+Citrus": ["Plains","Hill","HF+Citrus"],
+		"Hill+Forest+Deer": ["Plains","Hill","HF+Deer"],
+		"Hill+Forest+Deer+Camp": ["Plains","Hill","HF+Deer+Camp"],
+		"Hill+Forest+Dyes": ["Plains","Hill","HF+Dyes"],
+		"Hill+Forest+Furs": ["Plains","Hill","HF+Furs"],
+		"Hill+Forest+Furs+Camp": ["Plains","Hill","HF+Furs+Camp"],
+		"Hill+Forest+Lumber mill": ["Plains","Hill","HF+Lumber mill"],
+		"Hill+Forest+Sacred Grove": ["Plains","Hill","HF+Sacred Grove"],
+		"Hill+Forest+Silk": ["Plains","Hill","HF+Silk"],
+		"Hill+Forest+Spices": ["Plains","Hill","HF+Spices"],
+		"Hill+Forest+Trading post": ["Plains","Hill","HF+Trading post"],
+		"Hill+Forest+Truffles": ["Plains","Hill","HF+Truffles"],
+		"Hill+Forest+Truffles+Camp": ["Plains","Hill","HF+Truffles+Camp"],
 		
-		"Hill+Forest+Ancient ruins": ["Plains","Hill","HF","AncientRuinsForests"]
-		"Hill+Forest+Antiquity Site+Ancient ruins": ["Plains","Hill","HF","Antiquity Site","AncientRuinsForests"]
-		"Hill+Forest+Iron+Ancient ruins": ["Plains","Hill","Iron","HF","AncientRuinsForests"]
-		"Hill+Forest+Uranium+Ancient ruins": ["Plains","Hill","Uranium","HF","AncientRuinsForests"]
-		"Hill+Forest+Silver+Ancient ruins": ["Plains","Hill","Silver","HF","AncientRuinsForests"]
-		"Hill+Forest+Aluminum+Ancient ruins": ["Plains","Hill","Aluminum","HF","AncientRuinsForests"]
-		"Hill+Forest+Gold+Ancient ruins": ["Plains","Hill","Gold Ore","HF","AncientRuinsForests"]	
-		"Hill+Forest+Gold Ore+Ancient ruins": ["Plains","Hill","Gold Ore","HF","AncientRuinsForests"]
-		"Hill+Forest+Gems+Ancient ruins": ["Plains","Hill","Gems","HF","AncientRuinsForests"]			
-		"Hill+Forest+Citrus+Ancient ruins": ["Plains","Hill","HF+Citrus","AncientRuinsForests"]
-		"Hill+Forest+Deer+Ancient ruins": ["Plains","Hill","HF+Deer","AncientRuinsForests"]
-		"Hill+Forest+Deer+Camp+Ancient ruins": ["Plains","Hill","HF+Deer+Camp","AncientRuinsForests"]
-		"Hill+Forest+Dyes+Ancient ruins": ["Plains","Hill","HF+Dyes","AncientRuinsForests"]
-		"Hill+Forest+Furs+Ancient ruins": ["Plains","Hill","HF+Furs","AncientRuinsForests"]
-		"Hill+Forest+Furs+Camp+Ancient ruins": ["Plains","Hill","HF+Furs+Camp","AncientRuinsForests"]
-		"Hill+Forest+Lumber mill+Ancient ruins": ["Plains","Hill","HF+Lumber mill","AncientRuinsForests"]
-		"Hill+Forest+Sacred Grove+Ancient ruins": ["Plains","Hill","HF+Sacred Grove","AncientRuinsForests"]
-		"Hill+Forest+Silk+Ancient ruins": ["Plains","Hill","HF+Silk","AncientRuinsForests"]
-		"Hill+Forest+Spices+Ancient ruins": ["Plains","Hill","HF+Spices","AncientRuinsForests"]
-		"Hill+Forest+Trading post+Ancient ruins": ["Plains","Hill","HF+Trading post","AncientRuinsForests"]
-		"Hill+Forest+Truffles+Ancient ruins": ["Plains","Hill","HF+Truffles","AncientRuinsForests"]
-		"Hill+Forest+Truffles+Camp+Ancient ruins": ["Plains","Hill","HF+Truffles+Camp","AncientRuinsForests"]
-			    	"Plains+Forest+Hardwood+Lumber mill": ["Plains","Forest+Hardwood+Lumber mill"]
-			"Tundra+Forest+Hardwood+Lumber mill": ["TundraF","TF+Hardwood+Lumber mill"]
-			"Grassland+Forest+Hardwood+Lumber mill": ["Grassland","Forest+Hardwood+Lumber mill"]
-			"Plains+Hill+Forest+Hardwood+Lumber mill": ["Plains","Hill","HF+Hardwood+Lumber mill"]
-			"Tundra+Hill+Forest+Hardwood+Lumber mill": ["Tundra","Hill","HF+Hardwood+Lumber mill"]
-			"Grassland+Hill+Forest+Hardwood+Lumber mill": ["Grassland","Hill","HF+Hardwood+Lumber mill"]
-			"Plains+Jungle+Brazilwood Camp": ["Plains","Jungle+Brazilwood Camp"]
+		"Hill+Forest+Ancient ruins": ["Plains","Hill","HF","AncientRuinsForests"],
+		"Hill+Forest+Antiquity Site+Ancient ruins": ["Plains","Hill","HF","Antiquity Site","AncientRuinsForests"],
+		"Hill+Forest+Iron+Ancient ruins": ["Plains","Hill","Iron","HF","AncientRuinsForests"],
+		"Hill+Forest+Uranium+Ancient ruins": ["Plains","Hill","Uranium","HF","AncientRuinsForests"],
+		"Hill+Forest+Silver+Ancient ruins": ["Plains","Hill","Silver","HF","AncientRuinsForests"],
+		"Hill+Forest+Aluminum+Ancient ruins": ["Plains","Hill","Aluminum","HF","AncientRuinsForests"],
+		"Hill+Forest+Gold+Ancient ruins": ["Plains","Hill","Gold Ore","HF","AncientRuinsForests"],	
+		"Hill+Forest+Gold Ore+Ancient ruins": ["Plains","Hill","Gold Ore","HF","AncientRuinsForests"],
+		"Hill+Forest+Gems+Ancient ruins": ["Plains","Hill","Gems","HF","AncientRuinsForests"],			
+		"Hill+Forest+Citrus+Ancient ruins": ["Plains","Hill","HF+Citrus","AncientRuinsForests"],
+		"Hill+Forest+Deer+Ancient ruins": ["Plains","Hill","HF+Deer","AncientRuinsForests"],
+		"Hill+Forest+Deer+Camp+Ancient ruins": ["Plains","Hill","HF+Deer+Camp","AncientRuinsForests"],
+		"Hill+Forest+Dyes+Ancient ruins": ["Plains","Hill","HF+Dyes","AncientRuinsForests"],
+		"Hill+Forest+Furs+Ancient ruins": ["Plains","Hill","HF+Furs","AncientRuinsForests"],
+		"Hill+Forest+Furs+Camp+Ancient ruins": ["Plains","Hill","HF+Furs+Camp","AncientRuinsForests"],
+		"Hill+Forest+Lumber mill+Ancient ruins": ["Plains","Hill","HF+Lumber mill","AncientRuinsForests"],
+		"Hill+Forest+Sacred Grove+Ancient ruins": ["Plains","Hill","HF+Sacred Grove","AncientRuinsForests"],
+		"Hill+Forest+Silk+Ancient ruins": ["Plains","Hill","HF+Silk","AncientRuinsForests"],
+		"Hill+Forest+Spices+Ancient ruins": ["Plains","Hill","HF+Spices","AncientRuinsForests"],
+		"Hill+Forest+Trading post+Ancient ruins": ["Plains","Hill","HF+Trading post","AncientRuinsForests"],
+		"Hill+Forest+Truffles+Ancient ruins": ["Plains","Hill","HF+Truffles","AncientRuinsForests"],
+		"Hill+Forest+Truffles+Camp+Ancient ruins": ["Plains","Hill","HF+Truffles+Camp","AncientRuinsForests"],
+			    	"Plains+Forest+Hardwood+Lumber mill": ["Plains","Forest+Hardwood+Lumber mill"],
+			"Tundra+Forest+Hardwood+Lumber mill": ["TundraF","TF+Hardwood+Lumber mill"],
+			"Grassland+Forest+Hardwood+Lumber mill": ["Grassland","Forest+Hardwood+Lumber mill"],
+			"Plains+Hill+Forest+Hardwood+Lumber mill": ["Plains","Hill","HF+Hardwood+Lumber mill"],
+			"Tundra+Hill+Forest+Hardwood+Lumber mill": ["Tundra","Hill","HF+Hardwood+Lumber mill"],
+			"Grassland+Hill+Forest+Hardwood+Lumber mill": ["Grassland","Hill","HF+Hardwood+Lumber mill"],
+			"Plains+Jungle+Brazilwood Camp": ["Plains","Jungle+Brazilwood Camp"],
 			"Grassland+Jungle+Brazilwood Camp": ["Grassland","Jungle+Brazilwood camp"]
 		
 // tundra
@@ -283,6 +286,8 @@
 		"Tundra+Forest+Dyes": ["TundraF","TF+Dyes"]
 		"Tundra+Forest+Furs": ["TundraF","TF+Furs"]
 		"Tundra+Forest+Furs+Camp": ["TundraF","TF+Furs+Camp"]
+		"Tundra+Hill+Forest+Furs": ["Tundra","Hill","TF+Furs"]
+		"Tundra+Hill+Forest+Furs+Camp": ["Tundra","Hill","TF+Furs+Camp"]
 		"Tundra+Forest+Lumber mill": ["TundraF","TF+Lumber mill"]
 		"Tundra+Forest+Sacred Grove": ["TundraF","TF+Sacred Grove"]
 		"Tundra+Hill+Forest+Sheep": ["Tundra","Hill","Forest+Sheep"]
