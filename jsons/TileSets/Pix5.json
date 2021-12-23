@@ -29,6 +29,7 @@
 // desert
 		"Desert+Farm": ["Desert","Farm"]
 		"Desert+Flood plains+Farm": ["Desert","Farm+Flood plains"]
+		"Desert+Flood plains+Wheat+Farm": ["Desert","Wheat+Farm"]
 		"Desert+Wheat+Farm": ["Desert", "Wheat+Farm"]
 // plains
 		"Plains+Farm": ["Plains","Farm"]
@@ -125,7 +126,8 @@
 		"Grassland+Forest+Dyes": ["Grassland","Forest+Dyes"]
 		"Grassland+Forest+Furs": ["Grassland","Forest+Furs"]
 		"Grassland+Forest+Furs+Camp": ["Grassland","Forest+Furs+Camp"]
-		"Grassland+Forest+Sacred Grove": ["Plains","Forest+Sacred Grove"]
+		"Grassland+Forest+Sacred Grove": ["Grassland","Forest+Sacred Grove"]
+		"Grassland+Forest+Ancient ruins": ["Grassland","Forest", "AncientRuinsForest"]
 		"Grassland+Forest+Silk": ["Grassland","Forest+Silk"]
 		"Grassland+Forest+Spices": ["Grassland","Forest+Spices"]
 		"Grassland+Forest+Trading Post": ["Grassland","Forest+Trading post"]
