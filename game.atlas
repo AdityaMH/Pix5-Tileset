@@ -6,23 +6,72 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 OtherIcons/Triangle
   rotate: false
-  xy: 581, 340
+  xy: 2021, 448
   size: 20, 60
   orig: 20, 60
   offset: 0, 0
   index: -1
 TileSets/Default/Road
   rotate: false
-  xy: 92, 4
+  xy: 112, 80
   size: 60, 32
   orig: 60, 32
   offset: 0, 0
   index: -1
 TileSets/Pix5/Road
   rotate: false
-  xy: 92, 4
+  xy: 112, 80
   size: 60, 32
   orig: 60, 32
+  offset: 0, 0
+  index: -1
+TileSets/Pix5/Arrows/Generic
+  rotate: false
+  xy: 4, 204
+  size: 100, 60
+  orig: 100, 60
+  offset: 0, 0
+  index: -1
+TileSets/Pix5/Arrows/UnitAttacked
+  rotate: false
+  xy: 285, 448
+  size: 100, 60
+  orig: 100, 60
+  offset: 0, 0
+  index: -1
+TileSets/Pix5/Arrows/UnitHasAttacked
+  rotate: false
+  xy: 4, 136
+  size: 100, 60
+  orig: 100, 60
+  offset: 0, 0
+  index: -1
+TileSets/Pix5/Arrows/UnitMoved
+  rotate: false
+  xy: 112, 204
+  size: 100, 60
+  orig: 100, 60
+  offset: 0, 0
+  index: -1
+TileSets/Pix5/Arrows/UnitMoving
+  rotate: false
+  xy: 285, 380
+  size: 100, 60
+  orig: 100, 60
+  offset: 0, 0
+  index: -1
+TileSets/Pix5/Arrows/UnitTeleported
+  rotate: false
+  xy: 393, 448
+  size: 100, 60
+  orig: 100, 60
+  offset: 0, 0
+  index: -1
+TileSets/Pix5/Arrows/UnitWithdrew
+  rotate: false
+  xy: 4, 68
+  size: 100, 60
+  orig: 100, 60
   offset: 0, 0
   index: -1
 TileSets/Pix5/CrosshatchHexagon
@@ -34,1673 +83,1680 @@ TileSets/Pix5/CrosshatchHexagon
   index: -1
 TileSets/Pix5/Hexagon
   rotate: false
-  xy: 428, 138
+  xy: 260, 194
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Railroad
   rotate: false
-  xy: 92, 44
+  xy: 4, 28
   size: 60, 32
   orig: 60, 32
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Academy
   rotate: false
-  xy: 373, 317
+  xy: 220, 229
   size: 32, 35
   orig: 32, 35
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Aluminum
   rotate: false
-  xy: 461, 401
+  xy: 1381, 485
   size: 32, 23
   orig: 32, 23
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Aluminum+Mine
   rotate: false
-  xy: 549, 475
+  xy: 1381, 444
   size: 32, 33
   orig: 32, 33
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Amber
   rotate: false
-  xy: 373, 286
+  xy: 72, 37
   size: 32, 23
   orig: 32, 23
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Amber+Mine
   rotate: false
-  xy: 413, 319
+  xy: 112, 39
   size: 32, 33
   orig: 32, 33
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Ancient ruins
   rotate: false
-  xy: 461, 365
+  xy: 1421, 480
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Ancient ruins2
   rotate: false
-  xy: 501, 396
+  xy: 1421, 444
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/AncientRuinsDesert
   rotate: false
-  xy: 549, 439
+  xy: 1461, 480
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/AncientRuinsForest
   rotate: false
-  xy: 589, 480
+  xy: 1461, 444
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/AncientRuinsSnowTundra
   rotate: false
-  xy: 589, 444
+  xy: 1501, 480
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Antiquity Site
   rotate: false
-  xy: 629, 478
+  xy: 1501, 442
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Archaeological Dig
   rotate: false
-  xy: 669, 478
+  xy: 1541, 478
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Atoll
   rotate: false
-  xy: 709, 480
+  xy: 1541, 442
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Bananas
   rotate: false
-  xy: 749, 480
+  xy: 1581, 480
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Bananas+Plantation
   rotate: false
-  xy: 789, 480
+  xy: 1581, 444
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Barbarian encampment
   rotate: false
-  xy: 829, 480
+  xy: 1621, 480
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Barringer Crater
   rotate: false
-  xy: 869, 480
+  xy: 1621, 444
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Bison
   rotate: false
-  xy: 909, 480
+  xy: 1661, 480
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Bison+Camp
   rotate: false
-  xy: 949, 480
+  xy: 1661, 444
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Cattle
   rotate: false
-  xy: 989, 480
+  xy: 1701, 480
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Cattle+Pasture
   rotate: false
-  xy: 1029, 480
+  xy: 1701, 444
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Cerro de Potosi
   rotate: false
-  xy: 1069, 477
+  xy: 1741, 477
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Chateau
   rotate: false
-  xy: 4, 188
+  xy: 112, 120
   size: 80, 76
   orig: 80, 76
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Citadel
   rotate: false
-  xy: 1109, 478
+  xy: 1781, 478
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Citrus
   rotate: false
-  xy: 1149, 480
+  xy: 1821, 480
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Citrus+Plantation
   rotate: false
-  xy: 1189, 480
+  xy: 1861, 480
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/City center
   rotate: false
-  xy: 1229, 478
+  xy: 1901, 478
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/City center-Ancient era
   rotate: false
-  xy: 1269, 478
+  xy: 1941, 478
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/City center-Atomic era
   rotate: false
-  xy: 1309, 478
+  xy: 1981, 478
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/City center-Classical era
   rotate: false
-  xy: 1349, 478
+  xy: 1741, 439
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/City center-Future era
   rotate: false
-  xy: 1389, 478
+  xy: 1781, 440
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/City center-Industrial era
   rotate: false
-  xy: 1429, 478
+  xy: 1821, 442
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/City center-Information era
   rotate: false
-  xy: 1469, 478
+  xy: 1861, 442
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/City center-Medieval era
   rotate: false
-  xy: 1509, 478
+  xy: 1901, 440
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/City center-Modern era
   rotate: false
-  xy: 1549, 478
+  xy: 1941, 440
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/City center-Renaissance era
   rotate: false
-  xy: 1589, 478
+  xy: 1981, 440
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/City ruins
   rotate: false
-  xy: 629, 444
+  xy: 285, 268
   size: 32, 26
   orig: 32, 26
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Coal
   rotate: false
-  xy: 413, 288
+  xy: 325, 271
   size: 32, 23
   orig: 32, 23
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Coal+Mine
   rotate: false
-  xy: 1629, 475
+  xy: 152, 39
   size: 32, 33
   orig: 32, 33
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Coast
   rotate: false
-  xy: 1669, 480
+  xy: 220, 193
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Coast+Ice
   rotate: false
-  xy: 1709, 480
+  xy: 1381, 408
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Cocoa
   rotate: false
-  xy: 1749, 480
+  xy: 1421, 408
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Cocoa+Plantation
   rotate: false
-  xy: 1789, 480
+  xy: 1461, 408
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Coffe+Plantation
   rotate: false
-  xy: 1829, 480
+  xy: 1501, 406
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Coffee
   rotate: false
-  xy: 1869, 478
+  xy: 1541, 404
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Colossal Head
   rotate: false
-  xy: 285, 438
+  xy: 285, 302
   size: 80, 70
   orig: 80, 70
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Copper
   rotate: false
-  xy: 501, 365
+  xy: 1581, 413
   size: 32, 23
   orig: 32, 23
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Copper+Mine
   rotate: false
-  xy: 1909, 475
+  xy: 1621, 403
   size: 32, 33
   orig: 32, 33
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Cotton
   rotate: false
-  xy: 1949, 480
+  xy: 1661, 408
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Cotton+Plantation
   rotate: false
-  xy: 1989, 480
+  xy: 1701, 408
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Crab
   rotate: false
-  xy: 4, 104
+  xy: 393, 364
   size: 80, 76
   orig: 80, 76
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Customs house
   rotate: false
-  xy: 669, 439
+  xy: 1741, 400
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Deer
   rotate: false
-  xy: 709, 444
+  xy: 1781, 404
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Deer+Camp
   rotate: false
-  xy: 749, 444
+  xy: 1821, 406
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Desert
   rotate: false
-  xy: 789, 444
+  xy: 1861, 406
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Desert+Trading post
   rotate: false
-  xy: 829, 444
+  xy: 1901, 404
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Dyes
   rotate: false
-  xy: 869, 444
+  xy: 1941, 404
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Dyes+Plantation
   rotate: false
-  xy: 909, 444
+  xy: 1981, 404
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/El Dorado
   rotate: false
-  xy: 949, 441
+  xy: 373, 325
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Fallout
   rotate: false
-  xy: 989, 444
+  xy: 413, 328
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Farm
   rotate: false
-  xy: 1029, 444
+  xy: 453, 328
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Farm+Flood plains
   rotate: false
-  xy: 1069, 441
+  xy: 373, 289
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Feitoria
   rotate: false
-  xy: 1109, 435
+  xy: 413, 285
   size: 32, 35
   orig: 32, 35
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Fish
   rotate: false
-  xy: 1149, 444
+  xy: 453, 292
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Fish+Fishing Boats
   rotate: false
-  xy: 1189, 444
+  xy: 1581, 377
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Fishing Boats
   rotate: false
-  xy: 1229, 442
+  xy: 1621, 367
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Flood plains
   rotate: false
-  xy: 1269, 442
+  xy: 1661, 372
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/Pix5/Tiles/Flood plains+Wheat+Farm
+  rotate: false
+  xy: 1701, 372
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Forest
   rotate: false
-  xy: 1309, 440
+  xy: 1741, 362
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Forest+Citrus
   rotate: false
-  xy: 1349, 442
+  xy: 1781, 368
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Forest+Cotton
   rotate: false
-  xy: 1389, 440
+  xy: 1821, 368
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Forest+Deer
   rotate: false
-  xy: 1429, 442
+  xy: 1861, 370
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Forest+Deer+Camp
   rotate: false
-  xy: 1469, 442
+  xy: 1901, 368
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Forest+Dyes
   rotate: false
-  xy: 1509, 442
+  xy: 1941, 368
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Forest+Furs
   rotate: false
-  xy: 1549, 442
+  xy: 1981, 368
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Forest+Furs+Camp
   rotate: false
-  xy: 1589, 442
+  xy: 589, 402
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Forest+Hardwood+Lumber mill
   rotate: false
-  xy: 1629, 437
+  xy: 629, 400
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Forest+Lumber mill
   rotate: false
-  xy: 1669, 442
+  xy: 669, 400
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Forest+Sacred Grove
   rotate: false
-  xy: 1709, 442
+  xy: 709, 400
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Forest+Sheep
   rotate: false
-  xy: 1749, 442
+  xy: 749, 400
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Forest+Silk
   rotate: false
-  xy: 1789, 442
+  xy: 789, 400
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Forest+Spices
   rotate: false
-  xy: 1829, 442
+  xy: 180, 82
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Forest+Trading post
   rotate: false
-  xy: 1869, 440
+  xy: 192, 44
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Forest+Truffles
   rotate: false
-  xy: 1909, 437
+  xy: 481, 384
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Forest+Truffles+Camp
   rotate: false
-  xy: 1949, 442
+  xy: 521, 384
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Fort
   rotate: false
-  xy: 1989, 442
+  xy: 200, 155
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Fountain of Youth
   rotate: false
-  xy: 160, 45
+  xy: 493, 345
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Furs
   rotate: false
-  xy: 160, 9
+  xy: 493, 309
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Furs+Camp
   rotate: false
-  xy: 200, 66
+  xy: 533, 348
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Gems
   rotate: false
-  xy: 200, 35
+  xy: 200, 124
   size: 32, 23
   orig: 32, 23
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Gems+Mine
   rotate: false
-  xy: 240, 61
+  xy: 533, 307
   size: 32, 33
   orig: 32, 33
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Gold Ore
   rotate: false
-  xy: 200, 4
+  xy: 493, 278
   size: 32, 23
   orig: 32, 23
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Gold Ore+Mine
   rotate: false
-  xy: 240, 20
+  xy: 533, 266
   size: 32, 33
   orig: 32, 33
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Grand Mesa
   rotate: false
-  xy: 268, 236
+  xy: 453, 256
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Grassland
   rotate: false
-  xy: 268, 200
+  xy: 493, 242
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Grassland+Marsh
   rotate: false
-  xy: 268, 164
+  xy: 533, 230
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Great Barrier Reef
   rotate: false
-  xy: 268, 128
+  xy: 941, 402
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/HF
   rotate: false
-  xy: 308, 236
+  xy: 981, 400
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/HF+Citrus
   rotate: false
-  xy: 308, 198
+  xy: 1021, 392
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/HF+Deer
   rotate: false
-  xy: 308, 160
+  xy: 1061, 392
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/HF+Deer+Camp
   rotate: false
-  xy: 308, 122
+  xy: 240, 155
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/HF+Dyes
   rotate: false
-  xy: 348, 236
+  xy: 240, 117
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/HF+Furs
   rotate: false
-  xy: 348, 198
+  xy: 1101, 392
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/HF+Furs+Camp
   rotate: false
-  xy: 348, 160
+  xy: 1141, 400
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/HF+Hardwood+Lumber mill
   rotate: false
-  xy: 348, 122
+  xy: 260, 230
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/HF+Lumber mill
   rotate: false
-  xy: 388, 248
+  xy: 300, 230
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/HF+Sacred Grove
   rotate: false
-  xy: 388, 210
+  xy: 340, 233
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/HF+Silk
   rotate: false
-  xy: 388, 172
+  xy: 1181, 394
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/HF+Spices
   rotate: false
-  xy: 388, 134
+  xy: 1221, 394
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/HF+Trading post
   rotate: false
-  xy: 428, 250
+  xy: 1141, 362
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/HF+Truffles
   rotate: false
-  xy: 428, 212
+  xy: 1181, 356
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/HF+Truffles+Camp
   rotate: false
-  xy: 428, 174
+  xy: 1221, 356
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Hill
   rotate: false
-  xy: 388, 96
+  xy: 300, 192
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Holy Place
   rotate: false
-  xy: 428, 94
+  xy: 340, 189
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Holy site
   rotate: false
-  xy: 541, 388
+  xy: 280, 148
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Horses
   rotate: false
-  xy: 541, 350
+  xy: 280, 110
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Horses+Pasture
   rotate: false
-  xy: 1149, 408
+  xy: 320, 153
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Ice
   rotate: false
-  xy: 1189, 408
+  xy: 320, 117
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Incense
   rotate: false
-  xy: 1229, 406
+  xy: 360, 153
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Incense+Plantation
   rotate: false
-  xy: 1269, 406
+  xy: 360, 117
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Iron
   rotate: false
-  xy: 1309, 409
+  xy: 220, 86
   size: 32, 23
   orig: 32, 23
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Iron+Mine
   rotate: false
-  xy: 1349, 401
+  xy: 232, 45
   size: 32, 33
   orig: 32, 33
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Ivory
   rotate: false
-  xy: 1389, 404
+  xy: 320, 81
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Ivory+Camp
   rotate: false
-  xy: 1429, 406
+  xy: 360, 81
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Jade
   rotate: false
-  xy: 1469, 411
+  xy: 72, 6
   size: 32, 23
   orig: 32, 23
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Jade+Mine
   rotate: false
-  xy: 1509, 401
+  xy: 232, 4
   size: 32, 33
   orig: 32, 33
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Jungle
   rotate: false
-  xy: 1549, 404
+  xy: 192, 6
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Jungle+Ancient ruins
   rotate: false
-  xy: 1589, 404
+  xy: 1781, 330
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Jungle+Bananas
   rotate: false
-  xy: 1629, 399
+  xy: 1821, 330
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Jungle+Brazilwood camp
   rotate: false
-  xy: 1669, 404
+  xy: 1861, 332
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Jungle+Citrus
   rotate: false
-  xy: 1709, 404
+  xy: 1901, 330
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Jungle+Cocoa
   rotate: false
-  xy: 1749, 404
+  xy: 1941, 330
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Jungle+Dyes
   rotate: false
-  xy: 1789, 404
+  xy: 1981, 330
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Jungle+Sacred Grove
   rotate: false
-  xy: 1829, 404
+  xy: 1261, 386
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Jungle+Spices
   rotate: false
-  xy: 1869, 402
+  xy: 1301, 386
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Jungle+Trading post
   rotate: false
-  xy: 1909, 399
+  xy: 1341, 386
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Jungle+Truffles
   rotate: false
-  xy: 1949, 404
+  xy: 1261, 348
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Jungle+Truffles+Camp
   rotate: false
-  xy: 1989, 404
+  xy: 1301, 348
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Kasbah
   rotate: false
-  xy: 1469, 374
+  xy: 1341, 349
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/King Solomon's Mines
   rotate: false
-  xy: 92, 178
+  xy: 501, 422
   size: 80, 86
   orig: 80, 86
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Krakatoa
   rotate: false
-  xy: 1429, 364
+  xy: 1381, 366
   size: 32, 34
   orig: 32, 34
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Kurgan
   rotate: false
-  xy: 285, 360
+  xy: 589, 438
   size: 80, 70
   orig: 80, 70
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Lakes
   rotate: false
-  xy: 1389, 368
+  xy: 1421, 372
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Lakes+Lake Victoria
   rotate: false
-  xy: 373, 438
+  xy: 677, 438
   size: 80, 70
   orig: 80, 70
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Land Trade Route (Food)
   rotate: false
-  xy: 4, 26
+  xy: 765, 438
   size: 80, 70
   orig: 80, 70
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Land Trade Route (Gold)
   rotate: false
-  xy: 4, 26
+  xy: 765, 438
   size: 80, 70
   orig: 80, 70
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Land Trade Route (Production)
   rotate: false
-  xy: 4, 26
+  xy: 765, 438
   size: 80, 70
   orig: 80, 70
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Landmark
   rotate: false
-  xy: 1509, 357
+  xy: 1461, 364
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Lapis Lazuli
   rotate: false
-  xy: 1549, 373
+  xy: 1501, 375
   size: 32, 23
   orig: 32, 23
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Lapis Lazuli+Mine
   rotate: false
-  xy: 1589, 363
+  xy: 1541, 363
   size: 32, 33
   orig: 32, 33
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Maize
   rotate: false
-  xy: 1629, 361
+  xy: 1581, 339
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Maize+Farm
   rotate: false
-  xy: 1669, 368
+  xy: 1621, 331
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Manufactory
   rotate: false
-  xy: 1709, 363
+  xy: 1661, 331
   size: 32, 33
   orig: 32, 33
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Marble
   rotate: false
-  xy: 1749, 368
+  xy: 1701, 336
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Marble+Quarry
   rotate: false
-  xy: 1789, 368
+  xy: 1741, 326
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Mine
   rotate: false
-  xy: 1829, 363
+  xy: 1501, 334
   size: 32, 33
   orig: 32, 33
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Moai
   rotate: false
-  xy: 1869, 363
+  xy: 1541, 324
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Mount Fuji
   rotate: false
-  xy: 1909, 358
+  xy: 1581, 298
   size: 32, 33
   orig: 32, 33
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Mount Kailash
   rotate: false
-  xy: 1949, 364
+  xy: 1621, 291
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Mount Kilimanjaro
   rotate: false
-  xy: 92, 84
+  xy: 853, 422
   size: 80, 86
   orig: 80, 86
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Mount Sinai
   rotate: false
-  xy: 1989, 364
+  xy: 1661, 291
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Mountain
   rotate: false
-  xy: 1469, 330
+  xy: 1701, 292
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Oasis
   rotate: false
-  xy: 1509, 321
+  xy: 1741, 290
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Obsidian
   rotate: false
-  xy: 1549, 337
+  xy: 1781, 294
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Obsidian+Quarry
   rotate: false
-  xy: 1589, 327
+  xy: 1821, 294
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Ocean
   rotate: false
-  xy: 1629, 325
+  xy: 1861, 296
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Offshore Platform
   rotate: false
-  xy: 1669, 332
+  xy: 1901, 294
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Oil
   rotate: false
-  xy: 1709, 327
+  xy: 1941, 294
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Oil well
   rotate: false
-  xy: 1749, 332
+  xy: 1981, 294
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Old Faithful
   rotate: false
-  xy: 1789, 327
+  xy: 380, 189
   size: 32, 33
   orig: 32, 33
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Olive+Plantation
   rotate: false
-  xy: 1829, 327
+  xy: 1381, 330
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Olives
   rotate: false
-  xy: 1869, 321
+  xy: 1421, 330
   size: 32, 34
   orig: 32, 34
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Pasture
   rotate: false
-  xy: 1909, 322
+  xy: 1461, 328
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Pearls
   rotate: false
-  xy: 180, 194
+  xy: 941, 438
   size: 80, 70
   orig: 80, 70
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Perfume
   rotate: false
-  xy: 1949, 322
+  xy: 400, 147
   size: 32, 34
   orig: 32, 34
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Plains
   rotate: false
-  xy: 1989, 328
+  xy: 400, 111
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Plantation
   rotate: false
-  xy: 1549, 301
+  xy: 400, 75
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Polder
   rotate: false
-  xy: 1589, 291
+  xy: 1341, 313
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/River-Bottom
   rotate: false
-  xy: 1629, 289
+  xy: 1381, 294
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/River-BottomLeft
   rotate: false
-  xy: 1669, 296
+  xy: 1421, 294
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/River-BottomRight
   rotate: false
-  xy: 1709, 291
+  xy: 1461, 292
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Rock of Gibraltar
   rotate: false
-  xy: 1749, 295
+  xy: 1501, 297
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Sacred Place
   rotate: false
-  xy: 285, 274
+  xy: 1029, 430
   size: 80, 78
   orig: 80, 78
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Salt
   rotate: false
-  xy: 1789, 296
+  xy: 1541, 293
   size: 32, 23
   orig: 32, 23
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Salt+Mine
   rotate: false
-  xy: 1829, 286
+  xy: 420, 189
   size: 32, 33
   orig: 32, 33
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Sea Trade Route (Food)
   rotate: false
-  xy: 373, 360
+  xy: 1117, 438
   size: 80, 70
   orig: 80, 70
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Sea Trade Route (Gold)
   rotate: false
-  xy: 373, 360
+  xy: 1117, 438
   size: 80, 70
   orig: 80, 70
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Sea Trade Route (Production)
   rotate: false
-  xy: 373, 360
+  xy: 1117, 438
   size: 80, 70
   orig: 80, 70
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Seaside Stall
   rotate: false
-  xy: 461, 432
+  xy: 1205, 432
   size: 80, 76
   orig: 80, 76
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Sheep
   rotate: false
-  xy: 1869, 285
+  xy: 440, 153
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Sheep+Pasture
   rotate: false
-  xy: 1909, 286
+  xy: 440, 117
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Silk
   rotate: false
-  xy: 1949, 286
+  xy: 440, 81
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Silk+Plantation
   rotate: false
-  xy: 1989, 290
+  xy: 1581, 260
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Silver
   rotate: false
-  xy: 1669, 265
+  xy: 112, 8
   size: 32, 23
   orig: 32, 23
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Silver+Mine
   rotate: false
-  xy: 1709, 250
+  xy: 1621, 250
   size: 32, 33
   orig: 32, 33
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Snow
   rotate: false
-  xy: 1749, 259
+  xy: 1661, 255
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Spices
   rotate: false
-  xy: 1789, 260
+  xy: 1701, 256
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Spices+Plantation
   rotate: false
-  xy: 1829, 250
+  xy: 1741, 254
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Sri Pada
   rotate: false
-  xy: 1869, 245
+  xy: 1781, 254
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Stone
   rotate: false
-  xy: 1909, 250
+  xy: 1821, 258
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Stone+Quarry
   rotate: false
-  xy: 1949, 250
+  xy: 1861, 260
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Sugar
   rotate: false
-  xy: 1989, 254
+  xy: 1901, 258
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Sugar+Plantation
   rotate: false
-  xy: 1309, 373
+  xy: 1941, 258
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/TF
   rotate: false
-  xy: 1349, 363
+  xy: 1981, 256
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/TF+Citrus
   rotate: false
-  xy: 1789, 222
+  xy: 1501, 259
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/TF+Deer
   rotate: false
-  xy: 1749, 221
+  xy: 1541, 255
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/TF+Deer+Camp
   rotate: false
-  xy: 1829, 212
+  xy: 1581, 222
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/TF+Dyes
   rotate: false
-  xy: 1869, 207
+  xy: 1621, 212
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/TF+Furs
   rotate: false
-  xy: 1909, 212
+  xy: 1661, 217
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/TF+Furs+Camp
   rotate: false
-  xy: 1949, 212
+  xy: 1701, 218
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/TF+Hardwood+Lumber mill
   rotate: false
-  xy: 1989, 216
+  xy: 1741, 216
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/TF+Lumber mill
   rotate: false
-  xy: 1789, 184
+  xy: 1781, 216
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/TF+Sacred Grove
   rotate: false
-  xy: 1829, 174
+  xy: 1821, 220
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/TF+Sheep
   rotate: false
-  xy: 1869, 169
+  xy: 1861, 222
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/TF+Silk
   rotate: false
-  xy: 1909, 174
+  xy: 1901, 220
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/TF+Spices
   rotate: false
-  xy: 1949, 174
+  xy: 1941, 220
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/TF+Trading post
   rotate: false
-  xy: 1989, 178
+  xy: 1981, 218
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/TF+Truffles
   rotate: false
-  xy: 1389, 330
+  xy: 272, 72
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/TF+Truffles+Camp
   rotate: false
-  xy: 1429, 326
+  xy: 272, 34
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Tea
   rotate: false
-  xy: 1469, 294
+  xy: 312, 45
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Tea+Plantation
   rotate: false
-  xy: 1509, 285
+  xy: 352, 45
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Terrace farm
   rotate: false
-  xy: 1549, 263
+  xy: 392, 37
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Tobacco
   rotate: false
-  xy: 1589, 255
+  xy: 312, 9
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Tobacco+Plantation
   rotate: false
-  xy: 1629, 253
+  xy: 352, 9
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Trading post
   rotate: false
-  xy: 1669, 227
+  xy: 440, 43
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Truffles
   rotate: false
-  xy: 1709, 212
+  xy: 1661, 179
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Truffles+Camp
   rotate: false
-  xy: 180, 102
+  xy: 1293, 424
   size: 80, 84
   orig: 80, 84
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Tundra
   rotate: false
-  xy: 1749, 185
+  xy: 1701, 182
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/TundraF
   rotate: false
-  xy: 589, 408
+  xy: 1741, 180
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Uluru
   rotate: false
-  xy: 629, 404
+  xy: 1781, 176
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Uranium
   rotate: false
-  xy: 669, 408
+  xy: 152, 8
   size: 32, 23
   orig: 32, 23
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Uranium+Mine
   rotate: false
-  xy: 709, 403
+  xy: 1821, 179
   size: 32, 33
   orig: 32, 33
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Whales
   rotate: false
-  xy: 749, 408
+  xy: 1861, 186
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Whales+Fishing Boats
   rotate: false
-  xy: 789, 408
+  xy: 1901, 184
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Wheat
   rotate: false
-  xy: 829, 408
+  xy: 1941, 184
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Wheat+Farm
   rotate: false
-  xy: 869, 408
+  xy: 1981, 182
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Wine
   rotate: false
-  xy: 909, 408
+  xy: 1861, 150
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/Pix5/Tiles/Wine+Plantation
   rotate: false
-  xy: 949, 405
+  xy: 1901, 148
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
